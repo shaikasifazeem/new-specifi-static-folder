@@ -1,0 +1,16 @@
+body
+{
+    background-color: slategray;
+}
+h1
+{
+    font-style: italic;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cornflowerblue;
+}
+image
+{
+    border-image-repeat: round;
+    border-image: fill;
+}
